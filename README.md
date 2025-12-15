@@ -42,7 +42,4 @@ This helps solidify:
 - FAISS / Vector databases (where applicable)
 - Jupyter Notebook
 
----
-
-## Repository Structure
 
